@@ -104,11 +104,11 @@ git clone https://github.com/your-username/jalnet.git
 cd jalnet
 
 # 2. Replace the *Google map api key* with Actual google map API
-on src/componets/ReliableGoogleMap.tsx
-src/componets/OptimizedGoogleMap.tsx
-src/componets/GoogleMap.tsx
-src/componets/FastGoogleMap.tsx
-src/componets/EnhancedGoogleMap.tsx
+# on src/componets/ReliableGoogleMap.tsx
+# src/componets/OptimizedGoogleMap.tsx
+# src/componets/GoogleMap.tsx
+# src/componets/FastGoogleMap.tsx
+# src/componets/EnhancedGoogleMap.tsx
 
 # 3. Install dependencies
 npm install
