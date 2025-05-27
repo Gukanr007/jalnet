@@ -103,14 +103,21 @@
 git clone https://github.com/your-username/jalnet.git
 cd jalnet
 
-# 2. Install dependencies
+# 2. Replace the *Google map api key* with Actual google map API
+on src/componets/ReliableGoogleMap.tsx
+src/componets/OptimizedGoogleMap.tsx
+src/componets/GoogleMap.tsx
+src/componets/FastGoogleMap.tsx
+src/componets/EnhancedGoogleMap.tsx
+
+# 3. Install dependencies
 npm install
 
-# 3. Set up Supabase project
+# 4. Set up Supabase project
 # → Import schema.sql into your Supabase project
 # → Create .env file with Supabase keys
 
-# 4. Start the development server
+# 5. Start the development server
 npm run dev
 ```
 ---
