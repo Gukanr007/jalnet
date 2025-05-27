@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="theme-color" content="#3b82f6" />
+    
+    <!-- Water drop favicon -->
+    <link rel="icon" href="/lovable-uploads/4fd93687-9f62-4b46-b836-c87daf74bef2.png" type="image/png">
+    
+    <title>JALNET - Water Management System</title>
+    <meta name="description" content="Jal Jeevan Mission Water Management Platform" />
+    <meta name="author" content="JALNET" />
+
+    <meta property="og:title" content="JALNET - Water Management System" />
+    <meta property="og:description" content="Jal Jeevan Mission Water Management Platform" />
+    <meta property="og:type" content="website" />
+
+    <style>
+      /* Prevent zoom on mobile inputs */
+      input[type="color"],
+      input[type="date"],
+      input[type="datetime"],
+      input[type="datetime-local"],
+      input[type="email"],
+      input[type="month"],
+      input[type="number"],
+      input[type="password"],
+      input[type="search"],
+      input[type="tel"],
+      input[type="text"],
+      input[type="time"],
+      input[type="url"],
+      input[type="week"],
+      select:focus,
+      textarea {
+        font-size: 16px;
+      }
+      
+      /* Safe area handling for mobile */
+      body {
+        padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script src="https://cdn.gpteng.co/gptengineer.js" type="module"></script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
