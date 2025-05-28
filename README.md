@@ -58,13 +58,13 @@
 
 ## 🏗️ Tech Stack
 
-| Component       | Technology                              |
-|----------------|------------------------------------------|
-| Frontend       | React + TailwindCSS                      |
-| Backend        | Supabase (PostgreSQL, Auth, Storage)     |
-| GIS Mapping    | Leaflet.js / Mapbox / Google Maps API    |
-| Payment (Mock) | Razorpay / Dummy flow                    |
-| Deployment     | Vercel / Netlify (suggested)             |
+| Component      | Technology                            |
+| -------------- | ------------------------------------- |
+| Frontend       | React + TailwindCSS                   |
+| Backend        | Supabase (PostgreSQL, Auth, Storage)  |
+| GIS Mapping    | Leaflet.js / Mapbox / Google Maps API |
+| Payment (Mock) | Razorpay / Dummy flow                 |
+| Deployment     | Vercel / Netlify (suggested)          |
 
 ---
 
@@ -93,7 +93,6 @@
 ├── README.md
 └── package.json
 
-
 ---
 
 ## ⚙️ How to Run Locally
@@ -120,6 +119,7 @@ npm install
 # 5. Start the development server
 npm run dev
 ```
+
 ---
 
 ## 📈 Future Scope
@@ -140,7 +140,7 @@ Contact me before any commercial or extended usage.
 
 ## 🌐 References
 
-- Jal Jeevan Mission Official Dashboard: [https://ejalshakti.gov.in](https://ejalshakti.gov.in)  
+- Jal Jeevan Mission Official Dashboard: [https://ejalshakti.gov.in](https://ejalshakti.gov.in)
 - IEEE & Research References: See project report or presentation.
 
 ---
