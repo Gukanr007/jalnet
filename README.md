@@ -2,6 +2,8 @@
 
 **JALNET** stands for **Jal** (Water) + **Net** (Network), representing a smart and connected platform for managing rural water infrastructure under India's **Jal Jeevan Mission**. It is a responsive web application built using **React** and **Supabase**, designed to digitize rural water supply operations with GIS mapping, maintenance tracking, billing, and manual inventory control.
 
+**Demo Link:** https://jalnet.netlify.app/
+
 ---
 
 ## 🔍 Project Objective
