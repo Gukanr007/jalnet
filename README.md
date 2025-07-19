@@ -174,10 +174,13 @@ Contact me before any commercial or extended usage.
 
 ---
 
+## 🏅 Published Paper
+
+- **Gukan R, "JALNET: Smart Rural Water Supply Management System," 2024 IEEE Paper.**  
+  [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10894932)
+
 ## 🌐 References
 
 - Jal Jeevan Mission Official Dashboard: [https://ejalshakti.gov.in](https://ejalshakti.gov.in)
 - IEEE & Research References: See project report or presentation.
-- [Gukan R, "JALNET: Smart Rural Water Supply Management System," 2024 IEEE Paper, https://ieeexplore.ieee.org/document/10894932](https://ieeexplore.ieee.org/document/10894932)
-
 ---
