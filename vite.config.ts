@@ -24,7 +24,7 @@ import react from '@vitejs/plugin-react-swc'
 import path from 'path'
 
 export default defineConfig({
-  base: '/', // Set to root for Netlify deployment
+  base: '/', // Set to root for Vercel deployment
   plugins: [react()],
   resolve: {
     alias: {
