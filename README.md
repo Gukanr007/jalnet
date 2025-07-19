@@ -104,12 +104,17 @@
 git clone https://github.com/your-username/jalnet.git
 cd jalnet
 
-# 2. Replace the *Google map api key* with Actual google map API
-# on src/componets/ReliableGoogleMap.tsx
-# src/componets/OptimizedGoogleMap.tsx
-# src/componets/GoogleMap.tsx
-# src/componets/FastGoogleMap.tsx
-# src/componets/EnhancedGoogleMap.tsx
+# 2. Set up environment variables
+npm run setup-env
+# This will create a .env file with the required environment variables.
+# Edit the .env file and replace "your_google_maps_api_key_here" with your actual API key.
+#
+# To get a Google Maps API key:
+# 1. Go to https://console.cloud.google.com/
+# 2. Create a new project or select existing one
+# 3. Enable Maps JavaScript API
+# 4. Create credentials (API key)
+# 5. Add the API key to your .env file
 
 # 3. Install dependencies
 npm install
