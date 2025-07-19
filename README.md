@@ -178,5 +178,6 @@ Contact me before any commercial or extended usage.
 
 - Jal Jeevan Mission Official Dashboard: [https://ejalshakti.gov.in](https://ejalshakti.gov.in)
 - IEEE & Research References: See project report or presentation.
+- [Gukan R, "JALNET: Smart Rural Water Supply Management System," 2024 IEEE Paper, https://ieeexplore.ieee.org/document/10894932](https://ieeexplore.ieee.org/document/10894932)
 
 ---
