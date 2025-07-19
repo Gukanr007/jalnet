@@ -80,20 +80,49 @@
 
 ## 📦 Project Structure
 
+```
 /jalnet
+├── android/
 ├── public/
+│   ├── favicon.ico
+│   ├── lovable-uploads/
+│   ├── placeholder.svg
+│   └── robots.txt
 ├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ ├── utils/
-│ └── App.jsx
+│   ├── App.css
+│   ├── App.tsx
+│   ├── components/
+│   ├── contexts/
+│   ├── data/
+│   ├── hooks/
+│   ├── index.css
+│   ├── integrations/
+│   ├── lib/
+│   ├── main.tsx
+│   ├── pages/
+│   ├── types/
+│   └── vite-env.d.ts
 ├── supabase/
-│ ├── schema.sql
-│ └── functions/
+│   └── config.toml
 ├── .env
+├── .gitignore
+├── bun.lockb
+├── capacitor.config.ts
+├── components.json
+├── dist/
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── postcss.config.js
 ├── README.md
-└── package.json
+├── setup-env.js
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+```
 
 ---
 
