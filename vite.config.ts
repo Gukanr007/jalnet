@@ -24,7 +24,7 @@ import react from '@vitejs/plugin-react-swc'
 import path from 'path'
 
 export default defineConfig({
-  base: '/jalnet/', // IMPORTANT for GitHub Pages
+  base: '/', // Set to root for Netlify deployment
   plugins: [react()],
   resolve: {
     alias: {
